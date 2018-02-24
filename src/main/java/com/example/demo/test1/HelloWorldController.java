@@ -1,10 +1,13 @@
-package com.example.demo.Controller;
+package com.example.demo.test1;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by ballsb on 2018/2/23.
+ * 1.1 Spring Boot 之 HelloWorld详解
+ *
+ * @author ballsb
+ * @date 2018/2/23
  */
 @RestController
 public class HelloWorldController {

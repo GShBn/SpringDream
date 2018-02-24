@@ -1,6 +1,6 @@
-package com.example.demo.Controller; 
+package com.example.demo.test1;
 
-import org.junit.Test; 
+import org.junit.Test;
 import org.junit.Before; 
 import org.junit.After; 
 import org.junit.runner.RunWith;
